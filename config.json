@@ -1,7 +1,7 @@
 {
   "user": "mineflayer",
   "host": "localhost",
-  "port": 25565,
+  "port": 60801,
   "version": false,
   "auth": false
 }
