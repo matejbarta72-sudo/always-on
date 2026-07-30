@@ -1,7 +1,6 @@
 {
-  "user": "mineflayer",
-  "host": "localhost",
-  "port": 25565,
-  "version": false,
-  "auth": false
+  "ip": "SurviX-Dev.aternos.me",
+  "port": 60801,
+  "name": "Jsem_247",
+  "version": "1.21.4"
 }
